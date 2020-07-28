@@ -1,4 +1,4 @@
-### Hi there 👋
+![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
 More information on my [website](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
 
