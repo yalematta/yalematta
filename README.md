@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+More information on my [website](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
+
 <!--
 **yalematta/yalematta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
