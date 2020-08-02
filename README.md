@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" /></a>
-</p>
-
 ![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
 <p float="left">
@@ -12,5 +8,10 @@
   <img src="https://octodex.github.com/images/dojocat.jpg" title="But don't forget your mask!" width="150">
 </p>
 
-More information on [yalematta.dev](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
+<p align="center">
+  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" /></a>
+</p>
 
+<p align="center">
+  More information on [yalematta.dev](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
+</p>
