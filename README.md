@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count/></a>
+  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count"/></a>
 </p>
