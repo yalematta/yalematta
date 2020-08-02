@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" /></a>
+  More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
 </p>
 
 <p align="center">
-  More information on [yalematta.dev](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
+  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count/></a>
 </p>
