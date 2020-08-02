@@ -1,5 +1,9 @@
 ![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
+<p align="center">
+  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" alt="Visitor count" /></a>
+</p>
+
 <p float="left">
   <img src="https://octodex.github.com/images/femalecodertocat.png" title="First, Coffee!" width="160">
   <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="160">
