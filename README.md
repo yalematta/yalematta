@@ -1,26 +1,12 @@
 ![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
 <p float="left">
-  <img src="https://octodex.github.com/images/femalecodertocat.png" title="First, Coffee!" width="185">
-  <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="185">
-  <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="185">
-  <img src="https://octodex.github.com/images/dinotocat.png" title="Let's smash those bugs! " width="185">
-  <img src="https://octodex.github.com/images/dojocat.jpg" title="But don't forget your mask!" width="180">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" title="First, Coffee!" width="170">
+  <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="170">
+  <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="170">
+  <img src="https://octodex.github.com/images/dinotocat.png" title="Let's smash those bugs! " width="170">
+  <img src="https://octodex.github.com/images/dojocat.jpg" title="But don't forget your mask!" width="170">
 </p>
 
 More information on [yalematta.dev](https://yalematta.dev) also you can follow me on [Twitter](https://twitter.com/yalematta)
 
-<!--
-**yalematta/yalematta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
