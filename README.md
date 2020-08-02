@@ -1,7 +1,7 @@
 ![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
 <p align="center">
-  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" alt="Visitor count" /></a>
+  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" /></a>
 </p>
 
 <p float="left">
