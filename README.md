@@ -5,8 +5,17 @@
   <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="160">
   <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="160">
   <img src="https://octodex.github.com/images/dinotocat.png" title="Let's smash those bugs! " width="160">
-  <img src="https://octodex.github.com/images/dojocat.jpg" title="But don't forget your mask!" width="150">
+  <img src="https://octodex.github.com/images/dojocat.jpg" title="P.S: Don't forget your mask!" width="150">
 </p>
+
+<!--<center>
+ <table>
+   <tr>
+       <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalematta&hide=html&layout=compact" /></td>
+       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=yalematta&theme=default" /></td>
+   </tr>   
+ </table>
+ </center>-->
 
 <p align="center">
   More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
