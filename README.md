@@ -1,11 +1,11 @@
 ![Layale Matta](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
 
-<p float="left">
-  <img src="https://octodex.github.com/images/femalecodertocat.png" title="First, Coffee!" width="160">
-  <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="160">
-  <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="160">
-  <img src="https://octodex.github.com/images/dinotocat.png" title="Let's smash those bugs! " width="160">
-  <img src="https://octodex.github.com/images/dojocat.jpg" title="P.S: Don't forget your mask!" width="150">
+<p align="center">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" title="First, Coffee!" width="130">
+  <img src="https://octodex.github.com/images/collabocats.jpg" title="Need some help?" width="130">
+  <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="130">
+  <img src="https://octodex.github.com/images/dinotocat.png" title="Let's smash those bugs! " width="130">
+  <img src="https://octodex.github.com/images/dojocat.jpg" title="P.S: Don't forget your mask!" width="120">
 </p>
 
 <!--<center>
