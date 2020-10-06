@@ -8,14 +8,14 @@
   <img src="https://octodex.github.com/images/dojocat.jpg" title="P.S: Don't forget your mask!" width="120">
 </p>
 
-<center>
+<!--<center>
  <table>
    <tr>
        <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalematta&hide=html&layout=compact" /></td>
        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=yalematta&theme=default" /></td>
    </tr>   
  </table>
-</center>
+</center>-->
 
 <p align="center">
   More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
