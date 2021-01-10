@@ -15,10 +15,6 @@
  </table>
 </center>-->
 
-<p align="center">
-  More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
-</p>
-
 <!--<p align="center">
   <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count"/></a>
 </p>-->
@@ -27,3 +23,8 @@
   Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
 </p>
 
+![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
+
+<p align="center">
+  More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
+</p>
