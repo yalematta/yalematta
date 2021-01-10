@@ -22,3 +22,8 @@
 <!--<p align="center">
   <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count"/></a>
 </p>-->
+
+<p align="center">
+  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
+</p>
+
