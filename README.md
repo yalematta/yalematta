@@ -4,6 +4,7 @@
   <img src="https://octodex.github.com/images/welcometocat.png" title="You're here? You did it!" width="130">
   <img src="https://octodex.github.com/images/femalecodertocat.png" title="But first, Coffee!" width="130">
   <img src="https://octodex.github.com/images/jetpacktocat.png" title="On my way, with my Jetpack tools!" width="130">
+  <img src="https://octodex.github.com/images/mountietocat.png" title="Just climbed the Mount Everest!" width="130">
 </p>
 
 <!--<center>
