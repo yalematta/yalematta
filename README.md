@@ -26,5 +26,14 @@
 ![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
 
 <p align="center">
-  More information on <a href="https://yalematta.dev">yalematta.dev</a> also you can follow me on <a href="https://twitter.com/yalematta">Twitter</a>
+  More information on <a href="https://yalematta.dev">yalematta.dev</a> 
+</p>
+
+<p align="center">
+  <a href="http://twitter.com/yalematta">
+    <img src="https://img.shields.io/twitter/follow/yalematta?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/layalematta?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/o7Lbog1ZNPs?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
 </p>
