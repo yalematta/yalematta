@@ -23,24 +23,3 @@
    </tr>   
  </table>
 </center>-->
-
-<!--<p align="center">
-  <a href="#welcome"><img src="https://profile-counter.glitch.me/yalematta/count.svg" title="Visitor Count"/></a>
-</p>-->
-
-<!--<p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>-->
-
-<!--![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)-->
-
-
-
-<!--<p align="center">
-  <a href="http://twitter.com/yalematta">
-    <img src="https://img.shields.io/twitter/follow/yalematta?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/layalematta?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/o7Lbog1ZNPs?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-</p>-->
