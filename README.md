@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/twitter/follow/yalematta?style=social"/>
+  <a href="https://twitter.com/yalematta">
+    <img src="https://img.shields.io/twitter/follow/yalematta?style=social"/>
+  </a>
 </p>
 
 <p align="center">
